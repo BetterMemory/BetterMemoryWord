@@ -1,5 +1,7 @@
-
-<center><img src="https://img.lilkon.cn/BetterMemoryLogo.png" height="160" width="160" /></center>
+<p align="center">
+  <img src="https://img.lilkon.cn/BetterMemory/LOGO/BetterMemoryLogo.png" 
+       height="160" width="160"/>
+</p>
 
 
 <h1><center>BetterMemory更好记忆</center></h1>
