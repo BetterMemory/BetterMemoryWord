@@ -16,7 +16,7 @@
 
 ### 官网
 
-#### https://bettermemory.lilkon.cn/
+#### https://bettermemory.cn/
 
 
 
