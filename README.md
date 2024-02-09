@@ -4,11 +4,11 @@
 </p>
 
 
-<h1><center>BetterMemory更好记忆</center></h1>
+<h1><center>BetterMemory Word</center></h1>
 
 
 
-## 关于 BetterMemory更好记忆
+## 关于 BetterMemory Word
 
 
 
@@ -16,13 +16,13 @@
 
 ### 官网
 
-#### https://bettermemory.cn/
+#### https://word.bettermemory.cn/
 
 
 
-### 什么是 BetterMemory更好记忆
+### 什么是 BetterMemory Word
 
-####  `BetterMemory更好记忆` 是Android移动端使用 Material you 主题设计的背英语单词短句的App
+####  `BetterMemory Word` 是Android移动端使用 Material you 主题设计的背英语单词短句的App
 
 
 
