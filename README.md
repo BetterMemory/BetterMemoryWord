@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.lilkon.cn/BetterMemory/LOGO/Worrd.png" 
-       height="160" width="160"/>
+  <img src="https://img.lilkon.cn/BetterMemory/LOGO/Word.png" 
+       height="360" width="720"/>
 </p>
 
 
