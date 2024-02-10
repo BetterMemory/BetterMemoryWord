@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.lilkon.cn/BetterMemory/LOGO/BetterMemoryLogo.png" 
+  <img src="https://img.lilkon.cn/BetterMemory/LOGO/Worrd.png" 
        height="160" width="160"/>
 </p>
 
